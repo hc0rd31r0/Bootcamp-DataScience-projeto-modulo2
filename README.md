@@ -3,7 +3,7 @@ Projeto do módulo 2 do bootcamp
 
 
 <p align="center">
-  <img src="https://www.pfizer.com.br/sites/default/files/inline-images/faq-vacina-pfizer-biontech.jpg" width="968" height="625"/>
+  <img src="https://www.pfizer.com.br/images/custom/pfizer_vacinas_620x400.jpg" width="968" height="625"/>
 </p>
 
 # Projeto de Data Science Aplicada 2 
